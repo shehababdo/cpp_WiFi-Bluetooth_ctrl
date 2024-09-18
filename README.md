@@ -1,7 +1,6 @@
 # Wi-Fi and Bluetooth Control
 
 A C++ application for managing Wi-Fi and Bluetooth connections on Linux systems.
-Introduction
 
 This application provides a user-friendly interface for controlling Wi-Fi and Bluetooth connections on Linux systems using the nmcli and bluetoothctl commands. 
 
